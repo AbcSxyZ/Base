@@ -124,6 +124,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📰 [Open source has a funding problem](https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/), the Overflow
 - 📰 [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
 - 📰 [Wikipedia’s value in the age of generative AI](https://medium.com/freely-sharing-the-sum-of-all-knowledge/wikipedias-value-in-the-age-of-generative-ai-b19fec06bbee)
+- 📰 [The Value of Open Source Sprints, the scikit-learn Experience](https://blog.scikit-learn.org/events/sprints-value/)
 - 🎥 [The Rise Of Open-Source Software - reportage CNBC](https://www.youtube.com/watch?v=SpeDK1TPbew)
 - 🎥 [Max Stoiber - open source your projects](https://www.youtube.com/watch?v=hwdeUG_gySI)
 - 🎥 [Max Stoiber - How Open Source Changed My Life](https://www.youtube.com/watch?v=ifq3xhik8tE)
