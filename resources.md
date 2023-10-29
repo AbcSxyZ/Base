@@ -234,8 +234,8 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 👩🏽‍🔬 [Amplifying the impact of open access: Wikipedia and the diffusion of science](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.23687)
 - 👩🏽‍🔬 [Open Science for private Interests? How the Logic of Open Science Contributes to the Commercialization of Research](https://www.frontiersin.org/articles/10.3389/frma.2020.588331/full)
 - 👩🏽‍🔬 [Open access publishing – noble intention, flawed reality](https://www.sciencedirect.com/science/article/pii/S027795362200898X)
-- 🛠️ [Core](https://core.ac.uk/)
 - 🛠️ [OpenAlex](https://openalex.org/), index of the world's scholarly research system 
+- 🛠️ [Core](https://core.ac.uk/), open access search engine
 - 🛠️ [oa.mg](https://oa.mg/), open access search engine
 - 🛠️ [BASE](https://www.base-search.net/), Bielefeld Academic Search
 - 🛠️ [Explore OpenAIRE](https://explore.openaire.eu/), search engine for open research data
