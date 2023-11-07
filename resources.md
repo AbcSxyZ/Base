@@ -355,6 +355,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Moodle Academy](https://moodle.academy/)
 - 🕴️ 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), swissuniversties initiative promoting open educational resources and platforms
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
+- 🕴️ [Make It Open](https://makeitopen.eu/), open schooling actor
 - 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
 - 🕴️ 🇬🇧 [Open Education Research Hub](http://oerhub.net/) (OER Hub)
 - 📰 [Chairs in Open Education](https://educacaoaberta.org/en/chairs-in-open-education/) (up to 2020)
@@ -381,6 +382,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🛠️ [Florilège](https://florilege.ls2n.fr/), French-language OER indexing by manual annotation
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
 - 🛠️ 🇫🇷 [La Digitale](https://ladigitale.dev/), open software for teachers
+- 🛠️ [Open Schooling Navigator](https://openschoolingnavigator.eu/)
 - 🛠️ [Open Educators Factory](http://rd.unir.net/pub/oef/login.php), self-assessment questionnaire with recommendations
 
 ## Open Innovation
