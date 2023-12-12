@@ -85,9 +85,11 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [Open Climate](https://open-climate.org/), exploring the intersection between the open movement and the climate crisis
 - 🕴️ [Digital Public Goods Alliance](https://digitalpublicgoods.net/)
 - 🕴️ [International Association for the Study of the Commons](https://iasc-commons.org/) (IASC)
+- 🕴️ [NLnet](https://nlnet.nl/), foundation to support open information society
 - 🕴️ [Pathways to Enable Open-Source Ecosystems](https://new.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose) (POSE), NSF program to develop new projects ecosystem
 - 🕴️ 🇫🇷 [Accélérateur d'Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/) (DINUM), commons related citizen initiatives accelerator
 - 🛠️ [inventaire.io](https://inventaire.io/welcome), books inventory
+- 🛠️ [Next Generation Internet Zero Commons Fund](https://nlnet.nl/commonsfund/)
 - 🏦 🇺🇳 [Global Digital Compact](https://www.un.org/techenvoy/global-digital-compact), UN project
 
 ## Open Source
