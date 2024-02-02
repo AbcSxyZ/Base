@@ -189,6 +189,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [Open Sustainable Technology](https://report.opensustain.tech/chapters/overview.html), directory of sustainability and climate software
 - 📚 [Open source code: directory of reference and training sites, Thot Cursus](https://cursus.edu/en/17405/open-source-open-source-code-directory-of-reference-and-training-sites)
 - 📚 [Open Source Events](https://github.com/anubhavpulkit/Open-Source-Events)
+- 📚 [Faces of Open Source](https://www.facesofopensource.com/)
 - 📚 [Software Heritage](https://www.softwareheritage.org/), universal open software archive
 - 📚 🇫🇷 [French COSS business](https://www.mxcrbn.com/posts/the-rise-of-oss-startups-in-france)
 - 🛠️ [GitHub Sponsor](https://github.com/sponsors)
