@@ -160,6 +160,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ 🇪🇸 [Federación ASOLIF](https://twitter.com/asolif_empresas)
 - 🕴️ 🇵🇹 [Associação de Empresas de Software Open Source Portuguesas](https://www.esop.pt/) (ESOP)
 - 🕴️ 🇪🇺 [OW2](https://www.ow2.org/), European Open Source Software Community
+- 🕴️ [Open Tech Strategies](https://opentechstrategies.com/), expert consulting
 - 🕴️ [Open Source Security Foundation](https://openssf.org/)
 - 🕴️ [Free/Libre and Open Source Software (FLOSS) foundations](https://flossfoundations.org/foundation-directory/)
 - 🕴️ [OpenMairie](http://www.openmairie.org/)
