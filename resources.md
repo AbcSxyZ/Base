@@ -413,6 +413,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 
 ## Open Hardware
 
+- [The Open Hardware Certification Program](https://web.archive.org/web/19990224114406/http://www.openhardware.org/), by Bruce Perens [archive]
 - 🎥 [Le libre et l'open source des logiciels et objets - monsieur Bidouille](https://www.youtube.com/watch?v=y2GNVGagWdM)
 - 🕴️ [Arduino](https://www.arduino.cc/)
 - 🛠️ [Prusa](https://www.prusa3d.com/), 3D printers
