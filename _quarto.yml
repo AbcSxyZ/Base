@@ -36,6 +36,7 @@ website:
         contents:
           - content/models/open-education.md
           - content/models/open-science.md
+          - content/models/open-source.md
           - content/models/open-hardware.md
           - content/models/open-collaboration.md
           - content/models/open-peer-review.md
