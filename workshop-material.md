@@ -5,3 +5,4 @@ Here you'll find a collection of open educational resources for setting up works
 ### List of teaching materials on open models
 
 * [Open Model Learning Environment](https://doi.org/10.5281/zenodo.8002670)
+* [The OpenAlex Library](workshops/openalex-library.md)
