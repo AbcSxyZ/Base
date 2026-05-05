@@ -199,6 +199,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [Faces of Open Source](https://www.facesofopensource.com/)
 - 📚 [Software Heritage](https://www.softwareheritage.org/), universal open software archive
 - 📚 🇫🇷 [French COSS business](https://www.mxcrbn.com/posts/the-rise-of-oss-startups-in-france)
+- 🛠️ [InfraFinder](https://infrafinder.investinopen.org/solutions)
 - 🛠️ [GitHub Sponsor](https://github.com/sponsors)
 - 🛠️ [FundOSS](https://fundoss.org/)
 - 🛠️ [Free Software Fund](https://www.fsf.org/working-together/fund) (FSF)
@@ -268,6 +269,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [Open Science Success Stories Database](https://projectopen.io/)
 - 📚 [Open Access Publishing Tools](https://radicaloa.disruptivemedia.org.uk/resources/publishing-tools/), by Radical Open Access
 - 📚 [Open Directory of Open Access Repositories](https://v2.sherpa.ac.uk/opendoar/) (OpenDOAR)
+- 📚 [Knowledge Base of University of Gdańsk](https://repozytorium.bg.ug.edu.pl/search-global)
 - 🏦🇺🇸 White House Office of Science and Technology Policy, [orientation politique du 25/08/2022](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/)
 - 🏦 🇫🇷 [First French National Plan for Open Science](https://www.ouvrirlascience.fr/national-plan-for-open-science-4th-july-2018/)
 - 🏦 🇫🇷 [Second French Plan for Open Science](https://www.ouvrirlascience.fr/second-national-plan-for-open-science/)
@@ -359,12 +361,16 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🕴️ [FabriqueREL](https://fabriquerel.org/)
 - 🕴️ [Open Digital Competences Training for School Educators](https://www.opendigcompedu.eu/) (OpenDigCompEdu)
 - 🕴️ [Moodle Academy](https://moodle.academy/)
+- 🕴️ [Peer To Peer university](https://www.p2pu.org/en/), host of the [School of Open](https://courses.p2pu.org/en/groups/schools/school-of-open/)
+- 🕴️ [OpenTechSchool](https://opentechschool.org/)
 - 🕴️ 🇨🇭 [Swiss Digital Skills Academy](https://d-skills.ch/), swissuniversties initiative promoting open educational resources and platforms
 - 🕴️ [Open Schools for Open Societies](https://www.openschools.eu/)
 - 🕴️ [Make It Open](https://makeitopen.eu/), open schooling actor
+- 🕴️ [Open-Source Learning](https://opensourcelearning.net/)
 - 🕴️ [Center for Open Education Research](https://uol.de/coer) (COER), Oldenburg university (🇩🇪)
 - 🕴️ 🇬🇧 [Open Education Research Hub](http://oerhub.net/) (OER Hub)
 - 📰 [Chairs in Open Education](https://educacaoaberta.org/en/chairs-in-open-education/) (up to 2020)
+- 📰 [EUniWell Open Education blog](https://euniwell-open-education.univ-nantes.fr/)
 - 📰 [Symmathesy: A Word in Progress](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/)
 - 👩🏽‍🔬 🇫🇷 [Sondage annuel (depuis 2014) usage numérique chez les enseignants](https://www.ac-paris.fr/sondage-sur-les-usages-du-numerique-123944)
 - 👩🏽‍🔬 [Creating an Online Social Learning Platform: A Model Approach for Open Development, Open Access and Open Education](https://doi.org/10.5445/IR/1000155833)
@@ -415,6 +421,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 🇨🇦 [Federated Research Data Repository](https://www.frdr-dfdr.ca/repo/?locale=en) (FRDR), find and share Canadian Resarch Data
 - 📚 🇨🇦 [Borealis](https://borealisdata.ca/),  Canadian Dataverse Repository for research data
 - 📚 [Registry of Research Data Repositories](https://www.re3data.org/) (re3data), overview of existing international repositories for research data
+- 📚 [Directory of Learned Societies](https://www.tsv.fi/en/services/directory-of-learned-societies)
 - 📚 [Dryad](https://datadryad.org), generalist open data publishing platform and community
 - 📚 [open Inter-university Consortium for Political and Social Research](https://www.openicpsr.org/) (openICPSR), self-publishing repository for social, behavioral, and health sciences research data
 - 📚 [Inter-university Consortium for Political and Social Research](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) (ICPSR), curated repository for social, behavioral, and health sciences research data
