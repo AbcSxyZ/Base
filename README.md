@@ -2,7 +2,7 @@
 
 **\[Base under construction, see [roadmap](organisation/roadmap.md)\]**
 
-![](images/open-models.png){width=80% fig-alt="Swiss knife representing multiple openness movements"}
+![](images/open-models.png){width=80% fig-alt="Swiss knife representing multiple openness movements" fig-align="center"}
 
 The digital is a new world that we have only just begun to explore.
 
