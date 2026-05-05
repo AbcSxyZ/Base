@@ -10,11 +10,6 @@ project:
 website:
   title: "Open Models"
   navbar:
-    left:
-      - href: README.md
-        text: Knowledge Base
-      - href: https://portal.open-models.org/
-        text: Portal
     tools:
       - icon: github
         href: https://github.com/Open-Models/Base
