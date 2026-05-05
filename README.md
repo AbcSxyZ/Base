@@ -52,9 +52,9 @@ Many ways to participate in this democratization of open models!
 
 ## Exchange with the community 🤳🏼
 
-The [discussion space](https://github.com/Open-Models/Base/discussions) allows you to ask questions, go into more detail on certain points or simply chat with other members of the community ❤️ 
+Join the [instant messaging service](https://matrix.to/#/#open-models-unfoundation:matrix.org) and its various chat rooms to easily interact with the community about all sorts of topics (based on Matrix/Element). As a forum, a [discussion space on GitHub](https://github.com/Open-Models/Base/discussions) allows ideas to be developed and helps to keep track of discussions over the long term.
 
-Don't hesitate to share any open models related projects you may have over there, they could be of interest to others people!
+Don't hesitate to share any open models related projects or information you may have over there, they could be of interest to others people!
 
 ## Licenses ⚖️
 
