@@ -2,6 +2,8 @@
 
 **\[Base under construction, see [roadmap](organisation/roadmap.md)\]**
 
+![](images/open-models.png){width=80% fig-alt="Swiss knife representing multiple openness movements"}
+
 The digital is a new world that we have only just begun to explore.
 
 Due to its capacity for the free circulation of knowledge and large-scale collaboration, unique phenomena are taking shape: open models that form the epicentre of this digital revolution.
