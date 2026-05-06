@@ -39,6 +39,10 @@ jobs:
       run: |
         sudo apt install ./.dependencies/*.deb
 
+    - name: Render jobs
+      run: |
+        python3 utils/jobs_render.py
+
     - name: Render website
       run: |
         quarto render

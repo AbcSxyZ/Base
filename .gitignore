@@ -1,3 +1,6 @@
 /.quarto/
 *.sw[po]
 _site/
+
+## Avoid adding rendered job offer
+jobs/offers/*.md
