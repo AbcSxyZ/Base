@@ -24,7 +24,8 @@ Accepted offers are published as open data following the [Schema.org JobPosting]
 standard, and are freely reusable by anyone.
 
 ##### Contribution guideline
-**Required info to generate the JSON**: Job title, organization, description, short resume, publication date, url, categories.
+**Required info to generate the JSON**: Job title, organization, description, short resume, publication date, url, categories. Try the following [prompt](jobs.prompt) for
+conversion with AI.
 :::
 
 <a href="index.xml">
