@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Open Models"
+  site-url: "https://open-models.org"
   navbar:
     tools:
       - icon: github
@@ -38,6 +39,8 @@ website:
         href: organisation/contribution-guidelines.md
       - text: "Resources"
         href: resources.md
+      - text: "Jobs"
+        href: jobs/index.md
 
 format:
   html:

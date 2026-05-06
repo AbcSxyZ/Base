@@ -56,6 +56,10 @@ Join the [instant messaging service](https://matrix.to/#/#open-models-unfoundati
 
 Don't hesitate to share any open models related projects or information you may have over there, they could be of interest to others people!
 
+## Job board
+
+Retrieve (or share) jobs related to open models and digital commons directly on the knowledge base [job board](/jobs).
+
 ## License ⚖️
 
 All resources in this knowledge base are dedicated to the public domain under [CC0 1.0 Universal](LICENSE) — you are free to use, modify, and share them without restriction and permission.
