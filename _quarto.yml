@@ -1,11 +1,5 @@
 project:
   type: website
-  render:
-    - "*.md"
-    - README.md
-    - content/method/README.md
-    - content/projects/README.md
-    - content/models/README.md
 
 website:
   title: "Open Models"
@@ -27,7 +21,7 @@ website:
       - text: "History"
         href: content/history.md
       - section: "Open Models"
-        href: content/models/README.md
+        href: content/models/index.md
         contents:
           - content/models/open-education.md
           - content/models/open-science.md
@@ -37,7 +31,7 @@ website:
           - content/models/open-peer-review.md
           - content/models/open-innovation.md
       - text: "Projects Example"
-        href: content/projects/README.md
+        href: content/projects/index.md
       - text: "Knowledge Base Roadmap"
         href: organisation/roadmap.md
       - text: "Contribution Guidelines"
