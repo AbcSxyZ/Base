@@ -56,10 +56,8 @@ Join the [instant messaging service](https://matrix.to/#/#open-models-unfoundati
 
 Don't hesitate to share any open models related projects or information you may have over there, they could be of interest to others people!
 
-## Licenses ⚖️
+## License ⚖️
 
-All resources in this knowledge base can be freely used, modified and shared for your own uses. Viral license, modifications/forks must be redistributed under CC BY-SA license.
+All resources in this knowledge base are dedicated to the public domain under [CC0 1.0 Universal](LICENSE) — you are free to use, modify, and share them without restriction and permission.
 
-Quotes to redirect to the base are appreciated!
-
-[GNU AGPL](LICENCE) & [CC BY-SA 4.0](LICENCE_CC_BY_SA_4).
+As a source, quotes to redirect to the base are appreciated!
