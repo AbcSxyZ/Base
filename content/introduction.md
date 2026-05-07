@@ -1,19 +1,33 @@
 ## Open Models
 
-> **Open models**: Modes of organisation and knowledge production based on the digital, the free circulation of information and collaboration on an Internet scale which seek to benefit from the properties of interaction between ecosystems.
+> **Open models**: Modes of organisation and knowledge production emerging with the digital era based on the free circulation of information and collaboration at an Internet scale which seek to benefit from the interaction between communities and ecosystems of actors (individuals, institutions, organizations, etc.).
+>
+> _**Examples of open models**: Open Science, Open Education, Open Software, Open Hardware, Open Data, Open Standard..._
 
+![](/images/open-models.png){fig-alt="Swiss knife represeting a set of open models (open science, open education, open software, open data and so on)."}
 
-![](https://raw.githubusercontent.com/Open-Models/Base/main/images/open-models.png)
+In the face of contemporary crises humanity will inevitably experience profound changes. Knowledge has always shaped society, from the discovery of fire through the Enlightenment and the Industrial Revolution to the recent awareness of environmental challenges. Launched almost a century ago, we are only at the very beginning of the digital revolution that is transforming our relationship with knowledge and information.
 
-The digital is transforming our relationship with knowledge through its ability to disseminate information and connect people. A variety of new dynamics based on sharing and collaboration around informational resources are emerging enabling the co-production of knowledge.
+Open models are emerging but already fundamental practices of sharing and collaboration around digital resources that may be used,
+shared and modified across a variety of domains: software, research material, educational resources, data, hardware, standards, etc.
+These phenomena enable communities to converge around **digital commons**, resources co-produced under shared governance.
 
-Based on shared interests, communities will federate to co-produce digital commons in a multitude of fields: software, scientific research, educational content, hardware, data, legal documents...
+::: {.callout-note}
+*Notable digital commons include the encyclopedia [Wikipedia](https://www.wikipedia.org/), the [GNU/Linux](https://en.wikipedia.org/wiki/Linux) operating system,
+the database [OpenStreetMap](https://www.openstreetmap.org), the preprint archive [arXiv](https://arxiv.org/) or the
+research repository [Zenodo](https://zenodo.org/), the textbooks platforms [LibreTexts](https://libretexts.org/) or
+[OpenStax](https://openstax.org/) — among many others.*
+:::
 
-The digital commons are based on shared governance and can be freely used, studied, modified and redistributed. These resources will benefit from the singularities of collective intelligence combined with network effects.
+Although these dynamics remain little known and understood, they are already shaping deeply our digital world and lie at the heart
+of major societal transformations. Open software is a driving force behind all digital
+evolutions, open science is at the root of the modern scientific revolution and
+open education is gradually transforming the way knowledge is transmitted. Modern society as a whole relies on these practices in one way or another.
+Open models aren't just one but several revolutions and this is just the beginning.
 
-The term "open models" allows us to think of these different phenomena as a whole that obeys common laws. Their study seeks to understand how socio-technical environments are built around digital commons, as well as the benefits and risks of interactions between a commons and its various ecosystems.
+This knowledge base on open models and digital commons is intended as a tool to help us navigate these vast and complex fields.
 
-These models are complementary and mutually reinforcing.
+Welcome to the world of open models and digital commons to contribute to change in society ❤️‍🔥
 
 ### Importance of open models
 
