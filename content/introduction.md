@@ -6,7 +6,7 @@
 
 ![](/images/open-models.png){fig-alt="Swiss knife represeting a set of open models (open science, open education, open software, open data and so on)."}
 
-In the face of contemporary crises humanity will inevitably experience profound changes. Knowledge has always shaped society, from the discovery of fire through the Enlightenment and the Industrial Revolution to the recent awareness of environmental challenges. Launched almost a century ago, we are only at the very beginning of the digital revolution that is transforming our relationship with knowledge and information.
+In the face of contemporary crises humanity will inevitably experience profound changes. Knowledge has always shaped society, from the discovery of fire through the Enlightenment and the Industrial Revolution to the recent awareness of environmental challenges. Launched almost a century ago, we are only at the very beginning of the digital revolution that is transforming our relationship with knowledge and information. Open models are seeds of these major shifts in the way we produce and distribute knowledge through digital technologies.
 
 Open models are emerging but already fundamental practices of sharing and collaboration around digital resources that may be used,
 shared and modified across a variety of domains: software, research material, educational resources, data, hardware, standards, etc.
@@ -28,6 +28,31 @@ Open models aren't just one but several revolutions and this is just the beginni
 This knowledge base on open models and digital commons is intended as a tool to help us navigate these vast and complex fields.
 
 Welcome to the world of open models and digital commons to contribute to change in society ❤️‍🔥
+
+### Fundamentals of the Digital World
+
+Still relatively unknown, open models already are key components that shape the evolution of our digital world. Every modern application is built using
+open software with all major tech companies using, producing and collaborating around them. Linux runs 100% of the
+[500 fastest supercomputers](https://www.linuxfoundation.org/blog/blog/linux-runs-all-of-the-worlds-fastest-supercomputers), powers around
+[60% of the world's web servers](https://w3techs.com/technologies/details/os-linux), and Android — also built on Linux — holds
+around [70% of the mobile market](https://gs.statcounter.com/os-market-share/mobile/worldwide). Open software underpins
+many technological revolutions including the Internet, the World Wide Web, blockchain and cryptocurrencies, and more
+recently, artificial intelligence through shared software libraries.
+
+The contemporary scientific revolution is becoming increasingly grounded around the principle of open science, encouraged by a vast number of
+academics and with policies worldwide emerging to support free access to scientific knowledge. In 2021,
+[UNESCO's Recommendation on Open Science](https://www.unesco.org/en/open-science/about) was adopted unanimously by all 193 member states.
+Universities are setting up open archives and repositories to publish their research forming the biggest network of digital libraries in human history.
+Major crises accelerate this shift — during the COVID-19 pandemic, CERN, UNESCO and the World Health Organization launched a [joint appeal for open science](https://www.ohchr.org/en/press-releases/2020/10/joint-appeal-open-science-cern-ohchr-unesco-and-who), and it is increasingly seen as critical in [the face of ecological crises](https://www.weforum.org/stories/2023/11/open-science-climate-cop28/).
+
+Open education is gradually transforming the way knowledge is transmitted, extending these principles to teaching and learning.
+To foster this philosophy in education the [UNESCO's Recommandation on Open Educational Resources](https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer) was adopted in 2019, encouraging the development of national policies.
+With the intent to reduce costs and improve accessibility to education, the United States is seeing a rise of
+[Zero Textbook Cost](https://www.labster.com/blog/zero-textbook-cost) initiatives based on this idea of freely usable and modifiable material. 
+In 2024 in France, the Ministry of National Education launched the Forge of [Digital Educational Commons](https://docs.forge.apps.education.fr/) enabling
+collaboration between teachers at national scale.
+
+The rise of open models is spreading to other fields, their momentum grows continuously leading to numerous societal changes. Yet we still lack mastery of these dynamics; understanding them better is essential to realising their full potential and making wiser use of digital technologies.
 
 ### Importance of open models
 
