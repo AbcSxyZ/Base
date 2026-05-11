@@ -1,4 +1,4 @@
-## Open Models
+## Open Models and Digital Commons - Introduction
 
 > **Open models**: Modes of organisation and knowledge production emerging with the digital era based on the free circulation of information and collaboration at an Internet scale which seek to benefit from the interaction between communities and ecosystems of actors (individuals, institutions, organizations, etc.).
 >
@@ -19,15 +19,13 @@ research repository [Zenodo](https://zenodo.org/), the textbooks platforms [Libr
 [OpenStax](https://openstax.org/) — among many others.*
 :::
 
-Although these dynamics remain little known and understood, they are already shaping deeply our digital world and lie at the heart
+Although these dynamics remain little known and understood, they are already deeply shaping our digital world and lie at the heart
 of major societal transformations. Open software is a driving force behind all digital
 evolutions, open science is at the root of the modern scientific revolution and
 open education is gradually transforming the way knowledge is transmitted. Modern society as a whole relies on these practices in one way or another.
 Open models aren't just one but several revolutions and this is just the beginning.
 
 This knowledge base on open models and digital commons is intended as a tool to help us navigate these vast and complex fields.
-
-Welcome to the world of open models and digital commons to contribute to change in society ❤️‍🔥
 
 ### Fundamentals of the Digital World
 
@@ -77,9 +75,23 @@ open educational resource whose content is based on open access research, relyin
 dissemination, editability and interoperability. From another perspective, the availability of open source software enables the expansion
 of infrastructures in open science and open education, facilitating the establishment of resource repositories.
 Furthermore, open policies in one domain naturally encourage openness in others such as the diversity of open science policies
-whilst also calling for open software policies to move towards [open scholarly infrastructure](https://openscholarlyinfrastructure.org/).
+while also calling for open software policies to move towards [open scholarly infrastructure](https://openscholarlyinfrastructure.org/).
 
 It becomes strategic to think of open models as a coherent whole in which these common laws and complementarities make these
 phenomena mutually reinforcing.
 
 ### The Knowledge Base: An Open Models Experiment
+
+This knowledge base sits at the intersection of (popular) education and (citizen) science to support a global understanding
+and transmission of open models and digital commons. Education on open models is a broad topic taking various forms, the
+aim is **to nurture our general culture** while serving as a bridge toward specialized external resources to answer
+the different needs of people. The intent is to build a theoretical tool to train people and build educational resources adapted to
+the multiplicity of contexts, to empower a network of trainers and specialists but also to gather research in order to follow the state of the art in these areas.
+Its mission is to provide citizens with the knowledge to gain a deeper mastery of digital technologies by grasping these fundamental dynamics!
+
+In the face of these new changes we are all in a learning process. In line with these philosophies, the knowledge base
+is an exploration of open models by being an open resource looking for collaboration in an effort to shape a new digital commons.
+All of its content may be reused, modified and improved, all source files are openly available in a [dedicated repository](https://github.com/Open-Models/Base) (currently on GitHub). You are warmly invited to [contribute](/organisation/contribution-guidelines.md) in a variety of ways to help this project move forward.
+Open models can only be a collective journey whose success depends on each and every one of us.
+
+Welcome to this world of open models and digital commons to contribute to changes in society ❤️‍🔥
