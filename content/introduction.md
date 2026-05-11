@@ -54,14 +54,32 @@ collaboration between teachers at national scale.
 
 The rise of open models is spreading to other fields, their momentum grows continuously leading to numerous societal changes. Yet we still lack mastery of these dynamics; understanding them better is essential to realising their full potential and making wiser use of digital technologies.
 
-### Importance of open models
+### Common Laws, Complementary Dynamics
 
-All open models are immature and their degree of maturity varies widely, but these phenomena are already both structuring and a driving force in our society and seem set to grow stronger with digital democratization. By their unique properties, these models provide the building blocks for the architecture of a system that is tending to improve thanks to their growing understanding and the ever-increasing number of players joining these movements.
+Every openness movement has its own particularities but open models follow common mechanisms. Open collaboration practices are emerging
+across all these movements becoming increasingly important with the need to develop contribution and governance structures.
+Open resources face similar legal challenges within existing intellectual property frameworks. With digital commons taking shape in these various
+fields, complex ecosystems of stakeholders emerge composed of individuals, institutions and/or organisations from both public and private sectors.
+The production of these resources faces common constraints regarding the software infrastructure required to fully enable collaboration,
+the explorability of resources becoming also a common issue in these practices. Economic models of a new kind are appearing with this ability
+to mobilize resources to conduct activities. These openness movements possess a political aspect by leading to the implementation of policies
+at various levels, whether within an organisation, at national level or within international bodies. We can also see a need for specific skills
+development running through these dynamics.
 
-Today, open source software is the most developed open model, it forms the foundations of our digital universe and one of the main driver of progress in computing for over 50 years. Every Internet user uses it at least indirectly, programming languages are open source, the World Wide Web is powered by open source with a cloud that depends on it, the 500 biggest supercomputers run on Linux, open source can be found on Earth, in the sky and in space... Use and contribute to a ubiquitous open source all the largest organisations in the technology sector (GAFAM + BATX), the largest universities, all the superpowers have a policy in this area.
+We can even observe a similar historical trajectory in their development. First, with the progressive democratization of
+digital technologies, openness begins with a desire to share resources. Secondly, with the proliferation of resources, converging interests
+and maturing infrastructures, we are realising and seeking this collaborative potential more fully with the creation
+of dedicated methodologies. Last but not least, given their pervasive nature and cultural evolution, growing societal awareness
+of their importance drives efforts to sustain and institutionalise these open models.
 
-Since the Age of Enlightenment and the first scientific revolution, science has remained imperfect and has gone through its crises. With the digital revolution coupled with ecological crises, a second scientific revolution is taking shape of which open science is becoming a central component. The whole way in which scientific knowledge is disseminated and produced is evolving, with the majority of so-called prestigious universities already participating or countries such as France seeking to normalize the practice. The aim is to ensure that "the Internet now offers the chance to constitute a global and interactive representation of human knowledge, including cultural heritage and the guarantee of worldwide access" [2003, Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities].
+More than obeying common laws, these dynamics can be combined to create powerful synergies between open models. Take the example of an
+open educational resource whose content is based on open access research, relying on open software and open standards to support its
+dissemination, editability and interoperability. From another perspective, the availability of open source software enables the expansion
+of infrastructures in open science and open education, facilitating the establishment of resource repositories.
+Furthermore, open policies in one domain naturally encourage openness in others such as the diversity of open science policies
+whilst also calling for open software policies to move towards [open scholarly infrastructure](https://openscholarlyinfrastructure.org/).
 
-These transformations are gradually extending to all other fields such as education and industry, which are themselves affected by this change in relationship to knowledge. Their implementation is sometimes more complex, both technically and culturally.
+It becomes strategic to think of open models as a coherent whole in which these common laws and complementarities make these
+phenomena mutually reinforcing.
 
-Open models are at the heart of the digital revolution, a paradigm shift that will impact tomorrow's standards.
+### The Knowledge Base: An Open Models Experiment
