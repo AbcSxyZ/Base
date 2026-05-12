@@ -193,6 +193,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 📚 [(Ex-)Annuaire des principaux logiciels libres & open source](https://www.jdbonjour.ch/logiciel-libre/), EPFL
 - 📚 [Comptoir du libre](https://comptoir-du-libre.org/fr/), ADULLACT directory
 - 📚 [Interministerial (🇫🇷) Free Software Catalog](https://sill.etalab.gouv.fr/software)
+- 📚 [OpenTechHub](https://www.opentechhub.io/), portal for open software alternatives
 - 📚 [Open Sustainable Technology](https://report.opensustain.tech/chapters/overview.html), directory of sustainability and climate software
 - 📚 [Open source code: directory of reference and training sites, Thot Cursus](https://cursus.edu/en/17405/open-source-open-source-code-directory-of-reference-and-training-sites)
 - 📚 [Open Source Events](https://github.com/anubhavpulkit/Open-Source-Events)
@@ -390,6 +391,7 @@ In the spirit of contribution, any recommendation that will enrich this list of 
 - 🏦 🇺🇸 [Open Education at Office of Educational Technology](https://tech.ed.gov/open/), U.S. Department of Education Office of Educational Technology
 - 🛠️ [Openly Available Sources Integrated Search](https://oasis.geneseo.edu/index.php) (OASIS), OER search engine
 - 🛠️ [The Mason OER Metafinder](https://mom.gmu.edu) (MOM), OER search engine
+- 🛠️ [The Open Educational Resources Search Index](https://oersi.org/) (OERSI), OER search engine
 - 🛠️ [PressBooks](https://pressbooks.com/), open book creation platform
 - 🛠️ [Florilège](https://florilege.ls2n.fr/), French-language OER indexing by manual annotation
 - 🛠️ [convOERter](https://convoerter-eval.elearn.rwth-aachen.de/en/), convert presentation to OER
