@@ -6,6 +6,8 @@ website:
   site-url: "https://open-models.org"
   navbar:
     tools:
+      - icon: mastodon
+        href: https://social.sciences.re/@Open_Models_Unfoundation
       - icon: github
         href: https://github.com/Open-Models/Base
       - icon: chat-right-dots
