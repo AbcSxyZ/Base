@@ -10,6 +10,7 @@ In the face of contemporary crises humanity will inevitably experience profound 
 
 Open models are emerging but already fundamental practices of sharing and collaboration around digital resources that may be used,
 shared and modified across a variety of domains: software, research material, educational resources, data, hardware, standards, etc.
+Unlike dominant *proprietary* or *closed* approaches based on ownership through copyright, openness is guaranteed through legal frameworks that grant these freedoms, typically through open licenses.
 These phenomena enable communities to converge around **digital commons**, resources co-produced under shared governance.
 
 ::: {.callout-note}
@@ -18,14 +19,6 @@ the database [OpenStreetMap](https://www.openstreetmap.org), the preprint archiv
 research repository [Zenodo](https://zenodo.org/), the textbooks platforms [LibreTexts](https://libretexts.org/) or
 [OpenStax](https://openstax.org/) — among many others.*
 :::
-
-Although these dynamics remain little known and understood, they are already deeply shaping our digital world and lie at the heart
-of major societal transformations. Open software is a driving force behind all digital
-evolutions, open science is at the root of the modern scientific revolution and
-open education is gradually transforming the way knowledge is transmitted. Modern society as a whole relies on these practices in one way or another.
-Open models aren't just one but several revolutions and this is just the beginning.
-
-This knowledge base on open models and digital commons is intended as a tool to help us navigate these vast and complex fields.
 
 ### Fundamentals of the Digital World
 
@@ -67,15 +60,16 @@ development running through these dynamics.
 We can even observe a similar historical trajectory in their development. First, with the progressive democratization of
 digital technologies, openness begins with a desire to share resources. Secondly, with the proliferation of resources, converging interests
 and maturing infrastructures, we are realising and seeking this collaborative potential more fully with the creation
-of dedicated methodologies. Last but not least, given their pervasive nature and cultural evolution, growing societal awareness
+of dedicated methodologies. Last but not least, given their pervasive nature coupled with cultural evolution, growing societal awareness
 of their importance drives efforts to sustain and institutionalise these open models.
 
 More than obeying common laws, these dynamics can be combined to create powerful synergies between open models. Take the example of an
 open educational resource whose content is based on open access research, relying on open software and open standards to support its
 dissemination, editability and interoperability. From another perspective, the availability of open source software enables the expansion
 of infrastructures in open science and open education, facilitating the establishment of resource repositories.
-Furthermore, open policies in one domain naturally encourage openness in others such as the diversity of open science policies
-while also calling for open software policies to move towards [open scholarly infrastructure](https://openscholarlyinfrastructure.org/).
+Furthermore, open policies in one domain naturally encourage openness in others as the diversity of open science policies
+will lead to greater acceptance of open education policies while also calling for open software policies to move towards
+[open scholarly infrastructure](https://openscholarlyinfrastructure.org/).
 
 It becomes strategic to think of open models as a coherent whole in which these common laws and complementarities make these
 phenomena mutually reinforcing.
@@ -85,13 +79,12 @@ phenomena mutually reinforcing.
 This knowledge base sits at the intersection of (popular) education and (citizen) science to support a global understanding
 and transmission of open models and digital commons. Education on open models is a broad topic taking various forms, the
 aim is **to nurture our general culture** while serving as a bridge toward specialized external resources to answer
-the different needs of people. The intent is to build a theoretical tool to train people and build educational resources adapted to
-the multiplicity of contexts, to empower a network of trainers and specialists but also to gather research in order to follow the state of the art in these areas.
+the different needs of people. The intent is to build a theoretical tool to train people, a basis to create educational resources adapted to the multiplicity of contexts, a means to empower a network of trainers and specialists and a way to gather research in order to follow the state of the art in these areas.
 Its mission is to provide citizens with the knowledge to gain a deeper mastery of digital technologies by grasping these fundamental dynamics!
 
 In the face of these new changes we are all in a learning process. In line with these philosophies, the knowledge base
 is an exploration of open models by being an open resource looking for collaboration in an effort to shape a new digital commons.
-All of its content may be reused, modified and improved, all source files are openly available in a [dedicated repository](https://github.com/Open-Models/Base) (currently on GitHub). You are warmly invited to [contribute](/organisation/contribution-guidelines.md) in a variety of ways to help this project move forward.
+All content may be reused, modified and improved, an open source resource with its source files openly available in a [dedicated repository](https://github.com/Open-Models/Base) (currently on GitHub). You are warmly invited to [contribute](/organisation/contribution-guidelines.md) in a variety of ways to help this project move forward.
 Open models can only be a collective journey whose success depends on each and every one of us.
 
 Welcome to this world of open models and digital commons to contribute to changes in society ❤️‍🔥
